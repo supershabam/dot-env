@@ -1,0 +1,22 @@
+{
+  "name": "dot-env",
+  "version": "0.0.0",
+  "description": "An environment variable loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/supershabam/dot-env"
+  },
+  "keywords": [
+    "env",
+    "environment"
+  ],
+  "author": "Ian Hansen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supershabam/dot-env/issues"
+  }
+}
